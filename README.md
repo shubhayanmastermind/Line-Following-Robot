@@ -1,2 +1,2 @@
 # LFR
-A Line Following Robot which can traverse any black line path or white line path .
+A Line Following Robot which can traverse any complex black line path or white line path .
